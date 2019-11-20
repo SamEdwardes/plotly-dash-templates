@@ -1,4 +1,4 @@
-# Plotl.y Dash Templates
+# Plot.ly Dash Templates
 
 ## Background
 
